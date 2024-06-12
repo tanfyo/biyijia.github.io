@@ -121,7 +121,7 @@
 
   <url>
     <loc>https://biyijia.com/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,14 +129,14 @@
   
   <url>
     <loc>https://biyijia.com/tags/%E5%B8%81%E5%AE%89%E6%B3%A8%E5%86%8C/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://biyijia.com/tags/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -144,15 +144,15 @@
 
   
   <url>
-    <loc>https://biyijia.com/categories/%E5%B8%81%E5%AE%89/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://biyijia.com/categories/%E6%AF%94%E7%89%B9%E5%B8%81/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://biyijia.com/categories/%E6%AF%94%E7%89%B9%E5%B8%81/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://biyijia.com/categories/%E5%B8%81%E5%AE%89/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
