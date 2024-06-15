@@ -11678,6 +11678,49 @@ figure.highlight.foldable div.level-left {
     padding: 1.5rem 1rem;
   }
 }
+.binance-ad {
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.binance-ad a {
+  display: block;
+  text-decoration: none;
+}
+.binance-ad .ad-content {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.binance-ad .logo {
+  flex: 0 0 auto;
+  width: 180px;
+  margin-right: 20px;
+}
+.binance-ad .logo img {
+  max-width: 100%;
+  height: auto;
+}
+.binance-ad .text {
+  flex: 1 1 auto;
+}
+.binance-ad .text h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.binance-ad .text p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.binance-ad .text .link {
+  color: #fcd535;
+  transition: color 0.3s;
+}
+.binance-ad .text .link:hover {
+  color: #ffc107;
+}
 body {
   counter-reset: card;
 }
